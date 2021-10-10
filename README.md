@@ -1,4 +1,4 @@
-<h2 align="center">Hello thereI m Muhammad Zeeshan. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center">Hello there I m Muhammad Zeeshan. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 .
 
@@ -14,3 +14,10 @@
 - 🌱 I’m currently Studying CS  ...
 - 📫 How to reach me: on insta (https://www.instagram.com/xeeshan3534/)
 -->
+<br><br>
+<details>
+  <summary>:zap: Languages Used</summary>
+<a href="https://github.com/zeeshan3534/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanrafique23&layout=compact&hide_border=true" />
+</a>
+</details>
