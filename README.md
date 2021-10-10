@@ -4,7 +4,7 @@
 
 
 💻 Languages and Tools i m working on:
-<br>
+<br><br>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" height="20" src="https://www.clipartmax.com/png/middle/479-4795970_for-python-programming-language.png">
 <img align="left" height="20" src="https://www.clipartmax.com/png/small/5-55642_programming-services-html-5.png">
@@ -18,6 +18,6 @@
 <details>
   <summary>:zap: Languages Used</summary>
 <a href="https://github.com/zeeshan3534/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanrafique23&layout=compact&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan3534&layout=compact&hide_border=true" />
 </a>
 </details>
