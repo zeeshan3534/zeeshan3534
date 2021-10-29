@@ -1,5 +1,5 @@
 <h2 align="center">Hello there I m Muhammad Zeeshan. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-
+<center>
 <a href="https://https://twitter.com/shahzaib2028">
   <img align="left" alt="Muhammad Shahzaib | Twitter" width="22px" src="https://twitter.com/mzeeshan3534" />
 </a>
@@ -8,7 +8,7 @@
 </a>
 <a href="https://www.instagram.com/mohammad_shahzaib2028/">
   <img align="left" alt="Shahzaib's Instagram" width="22px" src="https://www.instagram.com/xeeshan3534/" />
-</a>
+</a></cemter>
 
 <br />
 
