@@ -13,6 +13,10 @@
 <img align="left" height="20" src="https://www.clipartmax.com/png/middle/479-4795970_for-python-programming-language.png">
 <img align="left" height="20" src="https://www.clipartmax.com/png/small/5-55642_programming-services-html-5.png">
 <img align="left" height="20" src="https://www.clipartmax.com/png/small/150-1504620_javascript-logo.png">
+![RISC-V](https://img.shields.io/badge/RISCV-011E41?style=flat-square&logo=RISCV&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DE3423?style=flat-square&logo=Scala&logoColor=white)
+![CHISEL](https://img.shields.io/badge/CHISEL-011E41?style=flat-square&logo=CHISEL&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3859a3?style=flat-square&logo=Tkinter&logoColor=white)
 <br>
 - 🔭 I’m currently working on  <img height="15" src="img/Standard_2.png"> ...
 - 🌱 I’m currently Studying CS  ...
