@@ -26,14 +26,13 @@ Hi, I'm Muhammad Zeeshan khan, And undergradute Computer Science student [@UIT](
 
 💻 Languages and Tools i m working on:
 <br><br>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" height="20" src="https://www.clipartmax.com/png/middle/479-4795970_for-python-programming-language.png">
-<img align="left" height="20" src="https://www.clipartmax.com/png/small/5-55642_programming-services-html-5.png">
-<img align="left" height="20" src="https://www.clipartmax.com/png/small/150-1504620_javascript-logo.png">
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 ![RISC-V](https://img.shields.io/badge/RISCV-011E41?style=flat-square&logo=RISCV&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DE3423?style=flat-square&logo=Scala&logoColor=white)
 ![CHISEL](https://img.shields.io/badge/CHISEL-011E41?style=flat-square&logo=CHISEL&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3859a3?style=flat-square&logo=Tkinter&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3859a3?style=flat-square&logo=Tkinter&logoColor=white)</p>
 <br>
 - 🔭 I’m currently working on  <img height="15" src="img/Standard_2.png"> ...
 - 🌱 I’m currently Studying CS  ...
