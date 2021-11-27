@@ -32,10 +32,11 @@ Hi, I'm Muhammad Zeeshan khan, And undergradute Computer Science student [@UIT](
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></p>
 
 <br>
+<p align="left">
 - 🔭 I’m currently working on  <img height="15" src="img/Standard_2.png"> ...
 - 🌱 I’m currently Studying CS  ...
 - 📫 How to reach me: on insta (https://www.instagram.com/xeeshan3534/)
--->
+--></p>
 <br><br>
 <details>
   <summary>:zap: Languages Used</summary>
