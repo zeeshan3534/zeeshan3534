@@ -33,8 +33,8 @@ Hi, I'm Muhammad Zeeshan khan, And undergradute Computer Science student [@UIT](
 
 <br>
 <p align="left">
-- 🔭 I’m currently working on  <img height="15" src="img/Standard_2.png"> ...
-- 🌱 I’m currently Studying CS  ...
+- 🔭 I’m currently working on  <img height="15" src="img/Standard_2.png"> ...<br>
+- 🌱 I’m currently Studying CS  ...<br>
 - 📫 How to reach me: on insta (https://www.instagram.com/xeeshan3534/)
 --></p>
 <br><br>
