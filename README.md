@@ -30,10 +30,7 @@ Hi, I'm Muhammad Zeeshan khan, And undergradute Computer Science student [@UIT](
    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></p>
-![RISC-V](https://img.shields.io/badge/RISCV-011E41?style=flat-square&logo=RISCV&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DE3423?style=flat-square&logo=Scala&logoColor=white)
-![CHISEL](https://img.shields.io/badge/CHISEL-011E41?style=flat-square&logo=CHISEL&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3859a3?style=flat-square&logo=Tkinter&logoColor=white)
+
 <br>
 - 🔭 I’m currently working on  <img height="15" src="img/Standard_2.png"> ...
 - 🌱 I’m currently Studying CS  ...
