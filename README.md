@@ -46,3 +46,7 @@ Hi, I'm Muhammad Zeeshan khan, And undergradute Computer Science student [@UIT](
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan3534&layout=compact&hide_border=true" />
 </a>
 </details>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/zeeshan3534/count.svg" />
+</p>
