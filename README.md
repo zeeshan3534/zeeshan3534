@@ -22,8 +22,7 @@ Hi, I'm Muhammad Zeeshan khan, And undergradute Computer Science student [@UITU]
    <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank">
   <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
 </p>
-  <br>
-
+ 
   ![RISC-V](https://img.shields.io/badge/RISCV-011E41?style=flat-square&logo=RISCV&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DE3423?style=flat-square&logo=Scala&logoColor=white)
 ![CHISEL](https://img.shields.io/badge/CHISEL-011E41?style=flat-square&logo=CHISEL&logoColor=white)
@@ -33,13 +32,12 @@ Hi, I'm Muhammad Zeeshan khan, And undergradute Computer Science student [@UITU]
 <br>
 <p align="left">
 - 🔭 I’m currently working on  <img height="15" src="img/Standard_2.png"> ...<br>
-- 💼 I'm currently working as traniee at **[Micro Electronics Research Lab (MERL-UIT)](https://merledupk.org/).
+- 💼 I'm currently working as traniee at **[Micro Electronics Research Lab (MERL-UIT)](https://merledupk.org/).<br>
 - 🌱 I’m currently Studying Computer Science  ...<br>
 - 📫 How to reach me: on insta (mzeeshankhan3534@gmail.com)
   
 --></p>
-<br><br>
-## 🌐 Connect with me
+# 🌐 Connect with me
 
 [<img align="left" alt="zeeshan3534 Twitter" height="30px" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
 [<img align="left" alt="zeeshan3534 LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />][linkedin]
