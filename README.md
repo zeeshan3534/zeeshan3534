@@ -33,8 +33,10 @@ Hi, I'm Muhammad Zeeshan khan, And undergradute Computer Science student [@UITU]
 <br>
 <p align="left">
 - 🔭 I’m currently working on  <img height="15" src="img/Standard_2.png"> ...<br>
+- 💼 I'm currently working as traniee at **[Micro Electronics Research Lab (MERL-UIT)](https://merledupk.org/).
 - 🌱 I’m currently Studying Computer Science  ...<br>
-- 📫 How to reach me: on insta (https://www.instagram.com/xeeshan3534/)
+- 📫 How to reach me: on insta (mzeeshankhan3534@gmail.com)
+  
 --></p>
 <br><br>
 ## 🌐 Connect with me
