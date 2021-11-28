@@ -23,12 +23,12 @@ Hi, I'm Muhammad Zeeshan khan, And undergradute Computer Science student [@UITU]
   <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
 </p>
   <br>
-<p>
+
   ![RISC-V](https://img.shields.io/badge/RISCV-011E41?style=flat-square&logo=RISCV&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DE3423?style=flat-square&logo=Scala&logoColor=white)
 ![CHISEL](https://img.shields.io/badge/CHISEL-011E41?style=flat-square&logo=CHISEL&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3859a3?style=flat-square&logo=Tkinter&logoColor=white)
-  </p>
+
   
 <br>
 <p align="left">
