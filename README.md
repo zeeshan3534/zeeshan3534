@@ -1,17 +1,5 @@
 <h2 align="center">Hello there I m Muhammad Zeeshan. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<center><a href="https://twitter.com/mzeeshan3534">
-  <img align="left" alt="Muhammad Zeeshan| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/zeeshan-khan-651763208/">
-  <img align="left" alt="Zeeshan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/xeeshan3534/">
-  <img align="left" alt="Zeeshan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a></center>
-
-
-
-<br><br>
+<br>
 
 Hi, I'm Muhammad Zeeshan khan, And undergradute Computer Science student [@UITU](https://www.uit.edu/) with Programming skills 🚀 from Pakistan
 <br>
@@ -44,7 +32,6 @@ Hi, I'm Muhammad Zeeshan khan, And undergradute Computer Science student [@UITU]
 [<img align="left" alt="zeeshan3534 LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="zeeshan3534 Instagram" height="30px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="zeeshan3534 Facebook" height="30px" width="100px" src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-
 [<img align="left" alt="zeeshan3534 Email" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />][gmail]
 <br />
 
@@ -52,7 +39,6 @@ Hi, I'm Muhammad Zeeshan khan, And undergradute Computer Science student [@UITU]
 [instagram]: https://www.instagram.com/xeeshan3534/
 [linkedin]: https://www.linkedin.com/in/zeeshan-khan-651763208/
 [facebook]: https://www.facebook.com/profile.php?id=100025302128019
-
 [gmail]: mailto:mzeeshankhan3534@gmail.com
 
 <details>
