@@ -10,7 +10,7 @@ Hi, I'm Muhammad Zeeshan khan, And undergradute Computer Science student [@UITU]
   <a href="https://twitter.com/Muhamma57794277"><i class="fab fa-twitter"></i></a>
   <a href="https://www.linkedin.com/in/zeeshan-khan-651763208//"><i class="fab fa-linkedin"></i></a>
   </p>
-
+  <img width="40%" src="img/codinf_freak.gif" align="right" />
 
 💻 Languages and Tools i m working on:
 <br><br>
