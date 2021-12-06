@@ -51,6 +51,17 @@ Hi, I'm Muhammad Zeeshan khan, And undergradute Computer Science student [@UITU]
 [linkedin]: https://www.linkedin.com/in/zeeshan-khan-651763208/
 [facebook]: https://www.facebook.com/profile.php?id=100025302128019
 [gmail]: mailto:mzeeshankhan3534@gmail.com
+<br>
+**this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+Python      4 hrs 40 mins   ███████████████░░░░░░░░░░   59.36 % 
+HTML/CSS    1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.39 % 
+DBMS        1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Scala       45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+```
+<!--END_SECTION:waka-->
 
 <details>
   <summary>:zap: Languages Used</summary>
