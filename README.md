@@ -1,7 +1,7 @@
 <h2 align="center">Hello there I m Muhammad Zeeshan. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <br>
 
-Hi, I'm Muhammad Zeeshan khan, And undergradute Computer Science student [@UITU](https://www.uit.edu/) with Programming skills 🚀 from Pakistan
+Hi, I'm Muhammad Zeeshan khan, And graduated in Computer Science from NED University
 <br>
 <br>
 <br>
