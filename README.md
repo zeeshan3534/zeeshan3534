@@ -55,11 +55,10 @@ Hi, I'm Muhammad Zeeshan khan, And graduated in Computer Science from NED Univer
 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Python      4 hrs 40 mins   ███████████████░░░░░░░░░░   59.36 % 
-HTML/CSS    1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.39 % 
-DBMS        1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Scala       45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Kotlin      8 hrs 40 mins   ██████████████████████      90.00 % 
+DBMS        1 hr            ██████                      05.50 %
+Python      22mins          ████                        03.25 %  
+Other       3 mins                                      02.25 % 
 ```
 <!--END_SECTION:waka-->
 
